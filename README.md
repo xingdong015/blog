@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tale
 
 ![Tale](https://ooo.0o0.ooo/2017/02/27/58b43450c9182.png)
@@ -57,3 +58,7 @@ Here is a throughput graph of the repository for the last few weeks:
 + [pinghsu](https://github.com/chakhsu/pinghsu)
 + [emoji-java](https://github.com/vdurmont/emoji-java)
 + [jetbrick-template](https://github.com/subchen/jetbrick-template-2x)# blog
+=======
+# blog
+blog...
+>>>>>>> 0beadae1aeca5ea9fef18c88e652741a640780e2
