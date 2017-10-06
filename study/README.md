@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Tale
+# Blog
 
 ![Tale](https://ooo.0o0.ooo/2017/02/27/58b43450c9182.png)
 
